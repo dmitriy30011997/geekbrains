@@ -1,1 +1,0 @@
-error: src refspec master does not match any
